@@ -58,4 +58,3 @@ else:
 	os.system(f"chmod +x {flnm} && ./{flnm}")
 
 
-	
